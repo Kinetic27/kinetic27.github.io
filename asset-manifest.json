@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bb39d839.css",
-    "main.js": "/static/js/main.b979f297.js",
+    "main.js": "/static/js/main.5abbdb4b.js",
     "static/media/support.png": "/static/media/support.277a1f79ac20274f95e9.png",
     "static/media/nasalization-rg.otf": "/static/media/nasalization-rg.4cbf2019f1f7337b2594.otf",
     "static/media/KaTeX_AMS-Regular.ttf": "/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
@@ -74,10 +74,10 @@
     "static/media/download.svg": "/static/media/download.725510cedc3cb980de94fa0ae5f2a0ab.svg",
     "static/media/plus.svg": "/static/media/plus.3cffe9a515498593b8721ae7cc7955b0.svg",
     "main.bb39d839.css.map": "/static/css/main.bb39d839.css.map",
-    "main.b979f297.js.map": "/static/js/main.b979f297.js.map"
+    "main.5abbdb4b.js.map": "/static/js/main.5abbdb4b.js.map"
   },
   "entrypoints": [
     "static/css/main.bb39d839.css",
-    "static/js/main.b979f297.js"
+    "static/js/main.5abbdb4b.js"
   ]
 }
